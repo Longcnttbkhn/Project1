@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Tìm nhà trọ sinh viên</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_main">MainActivity</string>
+
+    <string-array name="menu">
+        <item>Phòng mới</item>
+        <item>Đang theo dõi</item>
+        <item>Thông tin cá nhân</item>
+        <item>Quản lý phòng</item>
+        <item>Đăng ký phòng</item>
+        <item>Đề xuất phòng</item>
+    </string-array>
+
+    <string-array name="khuVuc">
+        <item>Đại học Bách Khoa Hà Nội</item>
+        <item>Đại học Kinh Tế Quốc Dân</item>
+        <item>Học viện Tài Chính</item>
+        <item>Đại học Xây Dựng</item>
+        <item>Đại học Y Hà Nội</item>
+        <item>Đại Học Giao Thông Vận Tải</item>
+        <item>Đại học Thủy Lợi</item>
+        <item>Đại học Nông Nghiệp</item>
+        <item>Đại học Công Nghiệp</item>
+        <item>Đại học Bưu Chính Viễn Thông</item>
+    </string-array>
+
+    <string-array name="cauHoiBaoMat">
+        <item>Cửa ra vào sơn màu gì?</item>
+        <item>Chủ nhà năm nay bao nhiêu tuổi?</item>
+        <item>Trong phòng có bao nhiêu ổ cắm điện?</item>
+        <item>Chủ nhà có bao nhiêu người con?</item>
+        <item>Trong phòng sơn màu gì?</item>
+    </string-array>
+</resources>
